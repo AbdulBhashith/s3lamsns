@@ -1,0 +1,6 @@
+lambda_role_name       = "s3_notifer_lambda_iam_role"
+lambda_iam_policy_name = "s3_notifer_lambda_iam_policy"
+function_name          = "S3_Notifier"
+function2_name         = "S3_Notifier"
+runtime                = "python3.9"
+runtime2               = "python3.9"
